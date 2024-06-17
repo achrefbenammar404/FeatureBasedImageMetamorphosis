@@ -1,4 +1,6 @@
 # Feature-Based Image Metamorphosis (Variation)
+## visual demonstration
+![Feature Based Image Metamorphosis](FeatureBasedImageMetamorphosis/Image/image.png)
 
 This repository contains an implementation of a variation of the Feature-Based Image Metamorphosis algorithm, inspired by the paper "Feature Based Image Metamorphosis" by Thaddeus Beer and Shawn Neely (2011). The variation is designed for use with a single image and a set of coupled vectors, enabling creative and unique image transformations.
 
